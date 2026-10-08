@@ -21,10 +21,4 @@ Power BI · Power Query · DAX · Instagram API
 
 Instagram API → Power Query transformation → Power BI dashboard
 
-## Files
 
--   `INSTRAGRAM PERFORMANCE ANALYSIS.pbix` --- Power BI report
--   `screenshots/dashboard.png` --- Dashboard preview
-
-> Never commit API keys, access tokens, or other credentials to the
-> repository.
